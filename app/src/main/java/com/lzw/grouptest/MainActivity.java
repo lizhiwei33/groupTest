@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public int getViewTypeCount() {
-            // TODO Auto-generated method stub
+            // TODO Auto-generated method stub不知道
             return 2;
         }*/
         public class ViewHolder {
